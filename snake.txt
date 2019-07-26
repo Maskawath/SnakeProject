@@ -1,0 +1,22 @@
+//		for (int a = 0; a < lenSnake; a++) {
+//
+//			if (a == 0 && right) {
+//				rMouth = new ImageIcon("enemy.png");
+//				rMouth.paintIcon(this, g, xlen[a], ylen[a]);
+//
+//			}
+//			if (a == 0 && left) {
+//				lMouth = new ImageIcon("enemy.png");
+//				lMouth.paintIcon(this, g, xlen[a], ylen[a]);
+//
+//			}
+//			if (a == 0 && down) {
+//				dMouth = new ImageIcon("enemy.png");
+//				dMouth.paintIcon(this, g, xlen[a], ylen[a]);
+//
+//			}
+//			if (a == 0 && up) {
+//				uMouth = new ImageIcon("enemy.png");
+//				uMouth.paintIcon(this, g, xlen[a], ylen[a]);
+//
+//			}
